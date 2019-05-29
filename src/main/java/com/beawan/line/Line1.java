@@ -23,7 +23,7 @@ public class Line1 {
         System.load(dllPath);
     }
 
-    public static String imgPath="F:\\opencvPhoto\\photo\\t.bmp";
+    public static String imgPath="F:\\opencvPhoto\\photo\\t2.bmp";
     public static String savePath="F:\\opencvPhoto\\result\\";
 
     public static void main(String[] args) {
